@@ -16,3 +16,7 @@ Assim que você clicar no link da página aparecerá a Pokédex. Basta digitar o
 ## ✒️ Autores
 
 Esse projeto foi inspirado no "Manual do DEV" - https://www.youtube.com/watch?v=SjtdH3dWLa8
+
+----
+
+Feito com 💜 por [Maria Clara] ☺
