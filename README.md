@@ -17,6 +17,9 @@ Assim que você clicar no link da página aparecerá a Pokédex. Basta digitar o
 
 Esse projeto foi inspirado no "Manual do DEV" - https://www.youtube.com/watch?v=SjtdH3dWLa8
 
+
+Veja o projeto online em: https://mariagonc.github.io/pokedex/
+
 ----
 
 Feito com 💜 por [Maria Clara] ☺
